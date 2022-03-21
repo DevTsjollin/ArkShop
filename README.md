@@ -1,3 +1,3 @@
 # ArkShop
-Extremely outdated
+Outdated
 <br />Made in 2020
